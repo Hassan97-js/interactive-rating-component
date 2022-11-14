@@ -1,0 +1,16 @@
+{
+  "name": "interactive-rating-component",
+  "version": "1.0.0",
+  "description": "Interactive rating component coding challenge",
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.0"
+  }
+}
